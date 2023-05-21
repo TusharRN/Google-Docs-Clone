@@ -24,4 +24,4 @@ React, Firebase 9, TailwindCSS, Draft.js.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at sahilverma.webdev@gmail.com
+If you have any feedback, please reach out to us at tusharnagpure185@gmail.com
